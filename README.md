@@ -40,7 +40,7 @@ DB_PASSWORD=your_postgres_password
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=your_db_name
-JWT_SECRET=super_secret_jwt_key
+JWT_SECRET=secret_jwt_key
 PORT=5000
 ```
 
