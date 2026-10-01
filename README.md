@@ -11,9 +11,8 @@ A role-based Store Rating Platform built with a React frontend and Express/Postg
 
 - **Normal Users**: Browse stores with a searchable dashboard, submit star ratings and text reviews, and upload community photos of stores.
 - **Store Owners**: Access a dedicated portal to view their store's average rating, real-time customer reviews, and manage their official store photo gallery.
-- **Administrators**: A pwerful management dashboard to oversee all system users, register new stores to owners, and filter metrics via responsive data tables.
+- **Administrators**: A management dashboard to oversee all system users, register new stores to owners, and filter metrics via responsive data tables.
 
-(`Inter`).
 
 ---
 
