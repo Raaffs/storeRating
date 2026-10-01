@@ -66,6 +66,18 @@ npm run dev
 ```
 The application will now be running on `http://localhost:5173`.
 
+## Usage 
+### 1. Admin View
+<img width="1617" height="917" alt="admin view- overview" src="https://github.com/user-attachments/assets/f764e67d-15d6-4b50-90f3-bef71d0112b1" />
+<img width="1628" height="916" alt="admin-manage store" src="https://github.com/user-attachments/assets/23794e84-2f22-42b6-88a2-3e02677ffba4" />
+<img width="1629" height="926" alt="admin view manager normal user" src="https://github.com/user-attachments/assets/d398e362-aa59-4605-841f-1b2b7f8c3678" />
+
+### 2. Normal user view
+<img width="1617" height="924" alt="normal user overview" src="https://github.com/user-attachments/assets/5d256f92-4b68-4c28-a733-9f05b5053da4" />
+<img width="1623" height="912" alt="normal user detail view" src="https://github.com/user-attachments/assets/bee15f66-e87f-4a27-95ff-098fc7d4758d" />
+
+### 3. Store owner view
+<img width="1623" height="922" alt="store owner view" src="https://github.com/user-attachments/assets/0f3bc33d-a448-438b-9144-76ce19b8cab3" />
 
 ## API Documentation
 
